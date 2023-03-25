@@ -36,8 +36,8 @@ else if(arg[2]=="random"){
 }
 
 
-switch (operation) {
+// switch (operation) {
   
-  default:
-    console.log("Invalid operation");
-}
+//   default:
+//     console.log("Invalid operation");
+// }
