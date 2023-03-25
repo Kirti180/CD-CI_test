@@ -10,13 +10,13 @@ let num1= arg[3]
 let num2 = arg[4]
 
 // complete the  function
-if(arg[2]=="sum"){
+if(arg[2]=="add"){
   console.log("additon is",+num1 + +num2)
 }
-else if(arg[2]=="mul"){
+else if(arg[2]=="mult"){
   console.log("multiplication is",+num1 * +num2)
 }
-else if(arg[2]=="div"){
+else if(arg[2]=="divide"){
   console.log("division is",+num1 / +num2)
 }
 else if(arg[2]=="sub"){
